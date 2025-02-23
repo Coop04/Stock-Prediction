@@ -1,2 +1,6 @@
 NasdaqData/**/*.csv
 NasdaqData/**/*.pkl
+config.yml
+PrepareData/*.csv
+env
+PrepareData/data_management/archive/credentials_bigquery.json
