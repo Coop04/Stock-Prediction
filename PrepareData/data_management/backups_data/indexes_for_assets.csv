@@ -1,0 +1,5 @@
+ticker,name,market,asset_type,ipo_date,delisting_date,status,timestamp,sector,logo_url
+^TASI.SR,Tadawul All Shares Index,4,49,,,Active,,Market Index,
+^NSEI,NIFTY 50,6,49,,,Active,,Market Index,
+^IXIC,NASDAQ Composite,1,49,,,Active,,Market Index,
+^DJI,Dow Jones Industrial Average,1,49,,,Active,,Market Index,

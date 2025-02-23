@@ -1,0 +1,5 @@
+id,asset_type,volume_unit,timestamp
+60,Crypto,USD,
+49,Index,SHR,
+2,ETF,SHR,
+1,Stock,SHR,
